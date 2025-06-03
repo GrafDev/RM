@@ -1,3 +1,3 @@
 # Room Finishes 2.0
-Ввиду того, что плагин создающий физическую отделку помещений, находящийся в официальном магазине AutoDesk, не работал под REVIT версии  2020, было принято решение разработать новый плагирн.
+Since the plugin that creates physical room finishes, available in the official Autodesk store, did not work with Revit 2020, it was decided to develop a new plugin.
 
